@@ -1,0 +1,25 @@
+{
+  "pasen": [
+    {
+      "date": "2023-04-18",
+      "name": "Muhammad Haedar Ali",
+      "age": "20",
+      "poli": "Poli Anak",
+      "id": 1
+    }
+  ],
+  "poli": [
+    {
+      "id": 1,
+      "name": "Poli Umum"
+    },
+    {
+      "id": 2,
+      "name": "Poli Gigi"
+    },
+    {
+      "id": 3,
+      "name": "Poli Anak"
+    }
+  ]
+}
